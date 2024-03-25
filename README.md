@@ -1,7 +1,3 @@
-Certainly! Below is a README file for the provided Java project demonstrating tree traversal algorithms:
-
----
-
 # Tree Traversal Demo
 
 This Java project demonstrates tree traversal algorithms: inorder, preorder, and postorder. It includes a `Node` class to represent nodes in a binary tree and a `TraversalDemo` class to perform traversal operations.
